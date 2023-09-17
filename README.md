@@ -5,7 +5,7 @@ TO-DO:
 - Namen ausdenken
 
 Ersteller:
-Martin (GitHub: hightesto) und Michael
+Martin (GitHub: hightesto) und Michael (GitHub: DerMichael1)
 
 Idee:
 - Sandbox Spiel
